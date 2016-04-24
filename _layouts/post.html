@@ -10,6 +10,17 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+
+    {% if page.media and page.media.type == "audio/mp3" %}
+      <audio controls>
+        <source src="{{ site.media_host }}/{{ page.media.path }}" type="{{ page.media.type }}">
+      </audio>
+    {% endif %}
+    {% if page.media and page.media.type == "video/x-m4v" %}
+      <video controls>
+        <source src="{{ site.media_host }}/{{ page.media.path }}" type="{{ page.media.type }}">
+      </audio>
+    {% endif %}
   </div>
 
 </article>
