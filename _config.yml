@@ -22,5 +22,8 @@ permalink: pretty
 # Build settings
 markdown: kramdown
 
+collections:
+  - side_matter
+
 # Misc
 media_host: "http://media2.wireworldmedia.co.uk"
