@@ -2,16 +2,17 @@
 layout: post
 status: publish
 published: true
-title: '#5: Greedy and The Pros from Dover at the Udderbelly'
+title: "#5: Greedy and The Pros from Dover at the Udderbelly"
 author: andy
-date: '2007-05-25 20:58:31 +0100'
-date_gmt: '2007-05-25 20:58:31 +0100'
+date: 2007-05-25 20:58:31 +0100
+date_gmt: 2007-05-25 20:58:31 +0100
 tags:
-- Fringe festival
-- comedy
+  - Fringe festival
+  - comedy
 media:
   path: EB/eb005.mp3
   type: audio/mp3
+  bytes: 21505232
 ---
 The Udderbelly is a big, blue, up-side-down cow that tours the country attending 
 various festivals including our very own Brighton Fringe Festival. 

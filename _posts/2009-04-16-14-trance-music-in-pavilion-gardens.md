@@ -2,24 +2,17 @@
 layout: post
 status: publish
 published: true
-title: '#14: Trance Music in Pavilion Gardens'
+title: "#14: Trance Music in Pavilion Gardens"
 author: andy
-date: '2009-04-16 18:44:07 +0100'
-date_gmt: '2009-04-16 18:44:07 +0100'
+date: 2009-04-16 18:44:07 +0100
+date_gmt: 2009-04-16 18:44:07 +0100
 tags:
-- music
-- street entertainment
+  - music
+  - street entertainment
 media:
   path: EB/eb014-trance-music-in-pavilion-gardens.mp3
   type: audio/mp3
-comments:
-- id: 199
-  author: Trance
-  author_email: trancecommunity@gmail.com
-  author_url: http://www.trancecommunity.com
-  date: '2010-08-28 14:06:14 +0100'
-  date_gmt: '2010-08-28 14:06:14 +0100'
-  content: Great to see a bit of Trance being played in the Pavilion gardens
+  bytes: 13499007
 ---
 Another mesmerising treat here with Didgeridoo, Hang Drum and Drums played to 
 perfection. We are so lucky to have folks like this performing publicly and 

@@ -2,18 +2,23 @@
 layout: post
 status: publish
 published: true
-title: Mark Restuccia - Kiss Yourself - Brighton Festival Fringe 2011
+title: "Mark Restuccia - Kiss Yourself - Brighton Festival Fringe 2011"
 author: andy
-date: '2011-05-10 17:35:49 +0100'
-date_gmt: '2011-05-10 17:35:49 +0100'
+date: 2011-05-10 17:35:49 +0100
+date_gmt: 2011-05-10 17:35:49 +0100
 tags:
-- Fringe festival
-- comedy
-- Fringe 2011
-- Brighton Festival Fringe Podcast
+  - Fringe festival
+  - comedy
+  - Fringe 2011
+  - Brighton Festival Fringe Podcast
 media:
   path: BFFP/fringe2011-mark-restuccia.m4v
   type: video/x-m4v
+  bytes: 26228523
+youtube:
+  id: QYhIqPL14OA
+  width: 560
+  height: 315
 ---
 Comedian, <a href="http://www.markrestuccia.com/" target="_blank">Mark 
 Restuccia</a> chats to Andy about performing his latest show, _Kiss 

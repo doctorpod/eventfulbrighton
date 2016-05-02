@@ -3,15 +3,15 @@ layout: default
 ---
 <h2 class="post_title">{{page.title}}</h2>
 
-<div class="post-list">
+<ul class="post-list">
   {% for post in site.posts %}
     {% for tag in post.tags %}
       {% if tag == page.tag %}
-        <p>
+        <li>
           <a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a> -
           <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %-d, %Y"}}</time> 
-        </p>
+        </li>
       {% endif %}
     {% endfor %}
   {% endfor %}
-</div>
+</ul>

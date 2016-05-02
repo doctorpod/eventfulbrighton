@@ -2,18 +2,19 @@
 layout: post
 status: publish
 published: true
-title: Duncan Sibbald - Keep Taking the Tablets - Brighton Festival Fringe 2011
+title: "Duncan Sibbald - Keep Taking the Tablets - Brighton Festival Fringe 2011"
 author: andy
-date: '2011-05-11 12:35:55 +0100'
-date_gmt: '2011-05-11 12:35:55 +0100'
+date: 2011-05-11 12:35:55 +0100
+date_gmt: 2011-05-11 12:35:55 +0100
 tags:
-- Fringe festival
-- theatre
-- Fringe 2011
-- Brighton Festival Fringe Podcast
+  - Fringe festival
+  - theatre
+  - Fringe 2011
+  - Brighton Festival Fringe Podcast
 media:
   path: BFFP/fringe2011-keep-taking-the-tablets.mp3
   type: audio/mp3
+  bytes: 9489690
 ---
 I chatted to Duncan Sibbald who wrote and produced Keep Taking the Tablets
 - a moving and funny play about mental health and mental health services. 

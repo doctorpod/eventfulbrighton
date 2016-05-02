@@ -2,17 +2,18 @@
 layout: post
 status: publish
 published: true
-title: Launch Party - Brighton Festival Fringe 2011
+title: "Launch Party - Brighton Festival Fringe 2011"
 author: andy
-date: '2011-02-15 22:05:48 +0000'
-date_gmt: '2011-02-15 22:05:48 +0000'
+date: 2011-02-15 22:05:48 +0000
+date_gmt: 2011-02-15 22:05:48 +0000
 tags:
-- Fringe festival
-- Fringe 2011
-- Brighton Festival Fringe Podcast
+  - Fringe festival
+  - Fringe 2011
+  - Brighton Festival Fringe Podcast
 media:
   path: BFFP/fringe2011-launch-party.mp3
   type: audio/mp3
+  bytes: 13385714
 ---
 The party was excellent! I met and spoke to:
 

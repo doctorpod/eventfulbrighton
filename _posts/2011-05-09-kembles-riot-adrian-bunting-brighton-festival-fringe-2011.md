@@ -2,18 +2,19 @@
 layout: post
 status: publish
 published: true
-title: Kemble's Riot - Adrian Bunting - Brighton Festival Fringe 2011
+title: "Kemble's Riot - Adrian Bunting - Brighton Festival Fringe 2011"
 author: andy
-date: '2011-05-09 19:14:39 +0100'
-date_gmt: '2011-05-09 19:14:39 +0100'
+date: 2011-05-09 19:14:39 +0100
+date_gmt: 2011-05-09 19:14:39 +0100
 tags:
-- Fringe festival
-- comedy
-- Fringe 2011
-- Brighton Festival Fringe Podcast
+  - Fringe festival
+  - comedy
+  - Fringe 2011
+  - Brighton Festival Fringe Podcast
 media:
   path: BFFP/fringe2011-kembles-riot.mp3
   type: audio/mp3
+  bytes: 11241841
 ---
 I speak to Adrian Bunting - playwrite and author of Kembles's Riot which played 
 at the Old Court House as part of the 2011 Fringe. 

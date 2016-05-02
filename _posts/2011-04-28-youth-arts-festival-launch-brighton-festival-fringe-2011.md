@@ -2,20 +2,21 @@
 layout: post
 status: publish
 published: true
-title: Youth Arts Festival launch - Brighton Festival Fringe 2011
+title: "Youth Arts Festival launch - Brighton Festival Fringe 2011"
 author: andy
-date: '2011-04-28 15:17:00 +0100'
-date_gmt: '2011-04-28 15:17:00 +0100'
+date: 2011-04-28 15:17:00 +0100
+date_gmt: 2011-04-28 15:17:00 +0100
 tags:
-- Fringe festival
-- theatre
-- music
-- dance
-- Fringe 2011
-- Brighton Festival Fringe Podcast
+  - Fringe festival
+  - theatre
+  - music
+  - dance
+  - Fringe 2011
+  - Brighton Festival Fringe Podcast
 media:
   path: BFFP/fringe2011-youth-arts-festival.mp3
   type: audio/mp3
+  bytes: 14294155
 ---
 I spoke to Sarah Pain and others at the launch party of the <a href="http://www.youthartsfestivalbrighton.org.uk">Youth Arts Festival</a> at the Jubilee Library in Brighton.
 

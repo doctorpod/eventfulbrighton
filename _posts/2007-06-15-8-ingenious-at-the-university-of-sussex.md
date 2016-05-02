@@ -2,16 +2,17 @@
 layout: post
 status: publish
 published: true
-title: '#8: Ingenious at the University of Sussex'
+title: "#8: Ingenious at the University of Sussex"
 author: andy
-date: '2007-06-15 23:09:22 +0100'
-date_gmt: '2007-06-15 23:09:22 +0100'
+date: 2007-06-15 23:09:22 +0100
+date_gmt: 2007-06-15 23:09:22 +0100
 tags:
-- science
-- technology
+  - science
+  - technology
 media:
   path: EB/eb008.mp3
   type: audio/mp3
+  bytes: 25987264
 ---
 Meet a guy who regularly performs a three point turn - with an atom! Learn how 
 to measure the charge separation in a neutron - and change the course of String 

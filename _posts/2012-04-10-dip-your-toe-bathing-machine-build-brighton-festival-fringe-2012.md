@@ -2,16 +2,21 @@
 layout: post
 status: publish
 published: true
-title: Dip Your Toe - Bathing Machine Build - Brighton Festival Fringe 2012
+title: "Dip Your Toe - Bathing Machine Build - Brighton Festival Fringe 2012"
 author: sarah
-date: '2012-04-10 15:19:02 +0100'
-date_gmt: '2012-04-10 15:19:02 +0100'
+date: 2012-04-10 15:19:02 +0100
+date_gmt: 2012-04-10 15:19:02 +0100
 tags:
-- Brighton Festival Fringe Podcast
-- Fringe 2012
+  - Brighton Festival Fringe Podcast
+  - Fringe 2012
 media:
   path: BFFP/025-dip-your-toe-build.m4v
   type: video/x-m4v
+  bytes: 133459068
+youtube:
+  id: WNh6y3Z6cBY
+  width: 560
+  height: 315
 ---
 Steven Brett, Artistic Director of the <a href="http://www.nightingaletheatre.co.uk" target="_blank">
 Nightingale</a> talks about Dip Your Toe, a large scale arts event, produced by 

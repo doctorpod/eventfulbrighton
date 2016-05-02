@@ -2,18 +2,18 @@
 layout: post
 status: publish
 published: true
-title: '#4: The Streets of Brighton'
+title: "#4: The Streets of Brighton"
 author: andy
-date: '2007-05-13 23:14:39 +0100'
-date_gmt: '2007-05-13 23:14:39 +0100'
+date: 2007-05-13 23:14:39 +0100
+date_gmt: 2007-05-13 23:14:39 +0100
 tags:
-- Fringe festival
-- theatre
-- street entertainment
-comments: []
+  - Fringe festival
+  - theatre
+  - street entertainment
 media:
   path: EB/eb004.mp3
   type: audio/mp3
+  bytes: 50299314
 ---
 The Streets of Brighton took place on Friday 11th and Saturday 12th May. 
 Enjoy an outdoor period drama, giant prawns doing a striptease, lively outdoor 

@@ -2,18 +2,19 @@
 layout: post
 status: publish
 published: true
-title: The King's Face - Iambic Arts Theatre - Brighton Festival Fringe 2011
+title: "The King's Face - Iambic Arts Theatre - Brighton Festival Fringe 2011"
 author: andy
-date: '2011-05-21 18:05:56 +0100'
-date_gmt: '2011-05-21 18:05:56 +0100'
+date: 2011-05-21 18:05:56 +0100
+date_gmt: 2011-05-21 18:05:56 +0100
 tags:
-- Fringe festival
-- theatre
-- Fringe 2011
-- Brighton Festival Fringe Podcast
+  - Fringe festival
+  - theatre
+  - Fringe 2011
+  - Brighton Festival Fringe Podcast
 media:
   path: BFFP/fringe2011-kings-face.mp3
   type: audio/mp3
+  bytes: 14697494
 ---
 I spoke to Steven Young (Director), Graham Rowe and David Trosko of The King's 
 Face playing in the Fringe at the Iambic Arts Theatre. A lively interaction 

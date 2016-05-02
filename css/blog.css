@@ -35,7 +35,7 @@ h6, .h6 {
  */
 
 .blog-masthead {
-  background-color: #428bca;
+  background-color: #777;
   -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
           box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
@@ -46,7 +46,7 @@ h6, .h6 {
   display: inline-block;
   padding: 10px;
   font-weight: 500;
-  color: #cdddeb;
+  color: #eee;
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
@@ -80,16 +80,28 @@ h6, .h6 {
 .blog-header {
   padding-top: 20px;
   padding-bottom: 20px;
+  overflow: hidden;
 }
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
   font-size: 36px;
   font-weight: bold;
+  float: left;
 }
 .blog-description {
+  display: block;
   font-size: 14px;
   color: #999;
+}
+.blog-logo {
+  clear: all;
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+.blog-header hr {
+  clear: both;
 }
 
 
@@ -171,4 +183,13 @@ h6, .h6 {
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
+}
+
+/* Colours */
+.eb-pink {
+  color: rgb(224,44,142);
+}
+
+.eb-green {
+  color: rgb(159,175,60);
 }

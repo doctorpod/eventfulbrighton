@@ -2,18 +2,19 @@
 layout: post
 status: publish
 published: true
-title: '#6: Brighton Festival Reviews 2007'
+title: "#6: Brighton Festival Reviews 2007"
 author: andy
-date: '2007-05-31 20:10:46 +0100'
-date_gmt: '2007-05-31 20:10:46 +0100'
+date: 2007-05-31 20:10:46 +0100
+date_gmt: 2007-05-31 20:10:46 +0100
 tags:
-- brighton festival
-- Fringe festival
-- music
-- comedy
+  - brighton festival
+  - Fringe festival
+  - music
+  - comedy
 media:
   path: EB/eb006.mp3
   type: audio/mp3
+  bytes: 14298762
 ---
 Opinions and thoughts on some of the acts in the Brighton Festival from two of 
 our reviewers Jo in Brighton and Lee in Shoreham. Listen in to see what they 

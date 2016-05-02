@@ -2,20 +2,20 @@
 layout: post
 status: publish
 published: true
-title: The Importance of being Earnest - Iambic Arts Theatre - Brighton Festival Fringe
-  2011
+title: "The Importance of being Earnest - Iambic Arts Theatre - Brighton Festival Fringe 2011"
 author: andy
-date: '2011-04-13 08:08:27 +0100'
-date_gmt: '2011-04-13 08:08:27 +0100'
+date: 2011-04-13 08:08:27 +0100
+date_gmt: 2011-04-13 08:08:27 +0100
 tags:
-- Fringe festival
-- theatre
-- comedy
-- Fringe 2011
-- Brighton Festival Fringe Podcast
+  - Fringe festival
+  - theatre
+  - comedy
+  - Fringe 2011
+  - Brighton Festival Fringe Podcast
 media:
   path: BFFP/fringe2011-importance-of-being-earnest.mp3
   type: audio/mp3
+  bytes: 9451723
 ---
 Andy White talks to <a href="http://barefootplayers.co.uk/">The Barefoot Players</a>, the cast of The Importance of being Earnest showing at the <a href="http://www.iambicarts.com/">Iambic Theatre</a> in May. The performance is a sexy modern update of Oscar Wilde's classic social satire for Brighton Fringe Festival 2011 <-- lifted straight from <a href="http://www.facebook.com/pages/The-Barefoot-Players/152984920895">The Barefoot Player's Facebook page</a>, hope you don't mind guys.
 

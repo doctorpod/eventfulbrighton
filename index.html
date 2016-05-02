@@ -6,17 +6,21 @@ layout: default
 
   <div class="post-list">
     {% for post in site.posts %}
-      <article class="blog-post">
-        <h2 class="blog-post-title">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <span class="blog-post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <div class="post-content">
-          {{ post.excerpt }}
-        </div>
+      {% if post.full_on_home %}
+        {% include post.html post=post %}
+      {% else %}
+        <article class="blog-post">
+          <h2 class="blog-post-title">
+            <a class="post-link eb-pink" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <span class="blog-post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <div class="post-content">
+            {{ post.excerpt }}
+          </div>
 
-      </article>
-      <hr />
+        </article>
+        <hr />
+      {% endif %}
     {% endfor %}
   </div>
 

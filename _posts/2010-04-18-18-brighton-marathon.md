@@ -2,15 +2,16 @@
 layout: post
 status: publish
 published: true
-title: '#18: Brighton Marathon'
+title: "#18: Brighton Marathon"
 author: andy
-date: '2010-04-18 13:38:46 +0100'
-date_gmt: '2010-04-18 13:38:46 +0100'
+date: 2010-04-18 13:38:46 +0100
+date_gmt: 2010-04-18 13:38:46 +0100
 tags:
-- sport
+  - sport
 media:
   path: EB/eb018-brighton-marathon-2010.mp3
   type: audio/mp3
+  bytes: 35239380
 ---
 Yikes! Brighton's first marathon.
 
