@@ -11,6 +11,7 @@ tags:
   - dance
   - Brighton Festival Fringe Podcast
   - Fringe 2012
+  - puppetry
 media:
   path: BFFP/026-headcase-touched-theatre.mp3
   type: audio/mp3
@@ -21,7 +22,7 @@ production, Headcase. It's the first time anyone's given a name to my furry
 microphone wind cover - from now on, it shall be kown as Gordon (more likely 
 Brown, not the gofer).
 
-From the <a href="http://www.touchedtheatre.co.uk/Headcase.html">headcase website</a>:
+From the <a href="http://touchedtheatre.co.uk/wordpress/shows/headcase/" target="_blank">headcase website</a>:
 Combining tabletop puppetry and object theatre with powerful dance and visual 
 theatre, Headcase shares the real experiences of a made up, mixed up teenager 
 as she struggles to come to terms with what's going on inside her own head.
