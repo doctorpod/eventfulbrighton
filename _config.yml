@@ -17,6 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eventfulbrighton.org" # the base hostname & protocol for your site
 twitter_username: doctorpod
 github_username:  doctorpod
+permalink: pretty
 
 # Build settings
 markdown: kramdown

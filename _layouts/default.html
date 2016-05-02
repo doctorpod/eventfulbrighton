@@ -4,7 +4,6 @@
   {% include head.html %}
 
   <body>
-
     {% include header.html %}
 
     <div class="container">
@@ -12,16 +11,15 @@
       <div class="blog-header">
         <h1 class="blog-title">{{ site.title }}</h1>
         <p class="lead blog-description">{{ site.subtitle }}</p>
+        <hr />
       </div>
 
       <div class="row">
-
         <div class="col-sm-8 blog-main">
           {{ content }}
         </div>
 
         {% include sidebar.html %}
-
       </div>
     </div>
 
@@ -35,7 +33,6 @@
     <script src="/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
-
   </body>
 
 </html>

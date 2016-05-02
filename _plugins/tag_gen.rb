@@ -22,7 +22,7 @@ module Jekyll
         dir = site.config['tag_dir'] || 'tag'
         site.tags.keys.each do |tag|
           safe_tag = tag.to_s.gsub(/ +/, "-")
-          write_tag_index(site, File.join(dir, safe_tag), safe_tag)
+          write_tag_index(site, File.join(dir, safe_tag), tag)
         end
       end
     end

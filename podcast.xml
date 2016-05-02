@@ -11,7 +11,7 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
       {% if post.media %}
         <item>
           <title>{{ post.title | xml_escape }}</title>
@@ -25,7 +25,7 @@ layout: null
           {% for cat in post.categories %}
           <category>{{ cat | xml_escape }}</category>
           {% endfor %}
-          <enclosure url="{{ site.media_host }}/{{ post.media.path }}" length="{{ post.media.length }}" type="{{ post.media.type }}"/>
+          <enclosure url="{{ site.media_host }}/{{ post.media.path }}" length="{{ post.media.bytes }}" type="{{ post.media.type }}"/>
         </item>
       {% endif %}
     {% endfor %}

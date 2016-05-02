@@ -1,11 +1,20 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <h1 class="blog-post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="blog-post-meta">
+      {% if page.author %}
+        by
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <a href="mailto:{{ site.data.authors[page.author].email }}" itemprop="name">{{ site.data.authors[page.author].name }}</a>
+        </span> 
+        on
+      {% endif %}
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+    </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -15,11 +24,17 @@ layout: default
       <audio controls>
         <source src="{{ site.media_host }}/{{ page.media.path }}" type="{{ page.media.type }}">
       </audio>
+      <div class="media-meta"><a href="{{ site.media_host }}/{{ page.media.path }}"">Download</a></span>
     {% endif %}
-    {% if page.media and page.media.type == "video/x-m4v" %}
-      <video controls>
-        <source src="{{ site.media_host }}/{{ page.media.path }}" type="{{ page.media.type }}">
-      </audio>
+
+    {% if page.youtube %}
+    <iframe width="{{ page.youtube.width }}" height="{{ page.youtube.height }}" src="https://www.youtube.com/embed/{{ page.youtube.id }}?rel=0" frameborder="0" allowfullscreen></iframe>
+    {% else %}
+      {% if page.media and page.media.type == "video/x-m4v" %}
+        <video width="100%" controls>
+          <source src="{{ site.media_host }}/{{ page.media.path }}" type="{{ page.media.type }}">
+        </audio>
+      {% endif %}
     {% endif %}
   </div>
 
