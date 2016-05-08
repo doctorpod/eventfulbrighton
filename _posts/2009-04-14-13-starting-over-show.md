@@ -15,4 +15,4 @@ media:
 ---
 <a href="http://www.startingovershow.co.uk/" target="_blank">The Starting Over Show</a> took place on Sunday 15th March 2009 at the Ship Hotel in Brighton. Here I talk to Suzy Miller, the lady behind the show, a number of exhibitors, and <a href="http://tankusthehenge.com/" target="_blank">Tankus the Henge</a>, the band playing at the show.
 
-<img alt="" src="http://www.eventfulbrighton.org/media/sos.jpg" title="Starting Over Show" class="alignleft" width="200px" height="200px" />
+<img alt="" src="{{ site.media_host }}/EB/sos.jpg" title="Starting Over Show" class="alignleft" width="200px" height="200px" />

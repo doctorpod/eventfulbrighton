@@ -33,4 +33,4 @@ Learn all about bowel gas problems, accidents that only rich people can have
 and what it's like to be kissed on the head by Jodie Kidd, what Rick Mayall is 
 really like and how to succeed in cow tipping.
 
-<img src="http://www.eventfulbrighton.org./media/greedypros.jpg" alt="Greedy & The Pros from Dover" />
+<img src="{{ site.media_host }}/EB/greedypros.jpg" alt="Greedy & The Pros from Dover" />
