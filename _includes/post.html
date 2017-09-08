@@ -37,4 +37,7 @@
     {% endif %}
   </div>
 
+  {% if site.disqus.shortname and include.on_home == false %}
+    {% include disqus.html post=include.post %}
+  {% endif %}
 </article>

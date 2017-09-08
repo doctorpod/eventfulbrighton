@@ -27,3 +27,7 @@ collections:
 
 # Misc
 media_host: "http://media2.wireworldmedia.co.uk"
+
+# Comments
+disqus:
+  shortname: eventfulbrighton

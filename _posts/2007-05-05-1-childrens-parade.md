@@ -15,5 +15,13 @@ media:
   path: EB/eb000.m4v
   type: video/x-m4v
   bytes: 18769097
+comments:
+  - id: 139
+    author: MEME
+    author_email: monkeytwins53@hotmail.com
+    author_url: ''
+    date: '2008-05-02 17:49:46 +0100'
+    date_gmt: '2008-05-02 17:49:46 +0100'
+    content: This year they r atchualy doing games
 ---
 The children's parade opens the festival every year. This year the theme was inventors and inventions and over 70 schools from in and around Brighton took part.
